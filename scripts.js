@@ -1,6 +1,5 @@
 // =
 const a = 1;
-
 const person = {};
 person.name = "Dimas";
 person.age = 40;
@@ -32,7 +31,6 @@ console.log(car);
 
 // defineProperties
 const pessoa = {};
-
 Object.defineProperties(pessoa, {
   nome: {
     value: "Mariana",
